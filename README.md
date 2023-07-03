@@ -1,2 +1,2 @@
 # TinDog
-practicing bootstrap; recreation of https://appbrewery.github.io/tindog/
+recreation of https://appbrewery.github.io/tindog/
